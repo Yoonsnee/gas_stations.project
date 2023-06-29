@@ -1,2 +1,8 @@
 # stations_project
-<img src = 'https://search.pstatic.net/sunny/?src=https%3A%2F%2Fmedia.tenor.com%2F061W8smXeZAAAAAC%2Fwow-ooh.gif&type=sc960_832_gif'>
+🟫 작은 목표
+- 데이터 수집 및 결측치제거, 단위맞추기 등의 전처리
+- 다양한 시각화 라이브러리 사용해보기
+
+🟫 팀 내 목표
+- 주유소 분포 위치 지도 작성 ⭕
+- 주유소 수가 줄어드는 원인 파악하기 ⭕
