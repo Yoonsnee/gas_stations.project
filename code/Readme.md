@@ -4,7 +4,5 @@
 
 팀 내 목표
 - 주유소 분포 위치 지도 작성 ⭕
-- 주유소 수가 줄어드는 원인 파악하기
-- ![MuaKissGIF](https://github.com/Yoonsnee/gas_stations.project/assets/111858867/8edc1349-e270-4ba9-9eaf-fb4c20879e42)
-
-- 
+- 주유소 수가 줄어드는 원인 파악하기 ⭕
+  
